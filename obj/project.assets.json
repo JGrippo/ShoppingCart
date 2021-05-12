@@ -1,0 +1,86 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Discount/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Discount.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Discount.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Discount/1.0.0": {
+      "type": "project",
+      "path": "Discount/Discount.csproj",
+      "msbuildProject": "Discount/Discount.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Discount >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/james/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/james/ShoppingCart/ShoppingCart/ShoppingCart.csproj",
+      "projectName": "ShoppingCart",
+      "projectPath": "/home/james/ShoppingCart/ShoppingCart/ShoppingCart.csproj",
+      "packagesPath": "/home/james/.nuget/packages/",
+      "outputPath": "/home/james/ShoppingCart/ShoppingCart/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/james/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "/home/james/ShoppingCart/ShoppingCart/Discount/Discount.csproj": {
+              "projectPath": "/home/james/ShoppingCart/ShoppingCart/Discount/Discount.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.409/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

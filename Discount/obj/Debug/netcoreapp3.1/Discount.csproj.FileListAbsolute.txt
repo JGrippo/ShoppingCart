@@ -1,0 +1,14 @@
+/home/james/ShoppingCart/ShoppingCart/Discount/obj/Debug/netcoreapp3.1/Discount.csprojAssemblyReference.cache
+/home/james/ShoppingCart/ShoppingCart/Discount/obj/Debug/netcoreapp3.1/Discount.csproj.CoreCompileInputs.cache
+/home/james/ShoppingCart/ShoppingCart/Discount/bin/Debug/netcoreapp3.1/Discount.deps.json
+/home/james/ShoppingCart/ShoppingCart/Discount/bin/Debug/netcoreapp3.1/Discount.dll
+/home/james/ShoppingCart/ShoppingCart/Discount/bin/Debug/netcoreapp3.1/Discount.pdb
+/home/james/ShoppingCart/ShoppingCart/Discount/obj/Debug/netcoreapp3.1/Discount.dll
+/home/james/ShoppingCart/ShoppingCart/Discount/obj/Debug/netcoreapp3.1/Discount.pdb
+/home/james/ShoppingCart_old/ShoppingCart/Discount/bin/Debug/netcoreapp3.1/Discount.deps.json
+/home/james/ShoppingCart_old/ShoppingCart/Discount/bin/Debug/netcoreapp3.1/Discount.dll
+/home/james/ShoppingCart_old/ShoppingCart/Discount/bin/Debug/netcoreapp3.1/Discount.pdb
+/home/james/ShoppingCart_old/ShoppingCart/Discount/obj/Debug/netcoreapp3.1/Discount.csprojAssemblyReference.cache
+/home/james/ShoppingCart_old/ShoppingCart/Discount/obj/Debug/netcoreapp3.1/Discount.csproj.CoreCompileInputs.cache
+/home/james/ShoppingCart_old/ShoppingCart/Discount/obj/Debug/netcoreapp3.1/Discount.dll
+/home/james/ShoppingCart_old/ShoppingCart/Discount/obj/Debug/netcoreapp3.1/Discount.pdb

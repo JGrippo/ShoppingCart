@@ -1,0 +1,4 @@
+/home/james/ShoppingCart/ShoppingCart/obj/Debug/netcoreapp3.1/ShoppingCart.csprojAssemblyReference.cache
+/home/james/ShoppingCart/ShoppingCart/obj/Debug/netcoreapp3.1/ShoppingCart.AssemblyInfoInputs.cache
+/home/james/ShoppingCart/ShoppingCart/obj/Debug/netcoreapp3.1/ShoppingCart.AssemblyInfo.cs
+/home/james/ShoppingCart/ShoppingCart/obj/Debug/netcoreapp3.1/ShoppingCart.csproj.CoreCompileInputs.cache

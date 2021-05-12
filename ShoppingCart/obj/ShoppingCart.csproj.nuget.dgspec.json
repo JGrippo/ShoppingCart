@@ -1,0 +1,112 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/james/ShoppingCart_old/ShoppingCart/ShoppingCart/ShoppingCart.csproj": {}
+  },
+  "projects": {
+    "/home/james/ShoppingCart_old/ShoppingCart/Discount/Discount.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/james/ShoppingCart_old/ShoppingCart/Discount/Discount.csproj",
+        "projectName": "Discount",
+        "projectPath": "/home/james/ShoppingCart_old/ShoppingCart/Discount/Discount.csproj",
+        "packagesPath": "/home/james/.nuget/packages/",
+        "outputPath": "/home/james/ShoppingCart_old/ShoppingCart/Discount/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/james/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.409/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/james/ShoppingCart_old/ShoppingCart/ShoppingCart/ShoppingCart.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/james/ShoppingCart_old/ShoppingCart/ShoppingCart/ShoppingCart.csproj",
+        "projectName": "ShoppingCart",
+        "projectPath": "/home/james/ShoppingCart_old/ShoppingCart/ShoppingCart/ShoppingCart.csproj",
+        "packagesPath": "/home/james/.nuget/packages/",
+        "outputPath": "/home/james/ShoppingCart_old/ShoppingCart/ShoppingCart/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/james/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/home/james/ShoppingCart_old/ShoppingCart/Discount/Discount.csproj": {
+                "projectPath": "/home/james/ShoppingCart_old/ShoppingCart/Discount/Discount.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.409/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

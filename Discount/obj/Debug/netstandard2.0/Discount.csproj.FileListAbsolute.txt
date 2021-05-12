@@ -1,0 +1,9 @@
+/home/james/ShoppingCart/ShoppingCart/price/bin/Debug/netstandard2.0/price.deps.json
+/home/james/ShoppingCart/ShoppingCart/price/bin/Debug/netstandard2.0/price.dll
+/home/james/ShoppingCart/ShoppingCart/price/bin/Debug/netstandard2.0/price.pdb
+/home/james/ShoppingCart/ShoppingCart/price/obj/Debug/netstandard2.0/price.csprojAssemblyReference.cache
+/home/james/ShoppingCart/ShoppingCart/price/obj/Debug/netstandard2.0/price.AssemblyInfoInputs.cache
+/home/james/ShoppingCart/ShoppingCart/price/obj/Debug/netstandard2.0/price.AssemblyInfo.cs
+/home/james/ShoppingCart/ShoppingCart/price/obj/Debug/netstandard2.0/price.csproj.CoreCompileInputs.cache
+/home/james/ShoppingCart/ShoppingCart/price/obj/Debug/netstandard2.0/price.dll
+/home/james/ShoppingCart/ShoppingCart/price/obj/Debug/netstandard2.0/price.pdb

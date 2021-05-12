@@ -1,0 +1,14 @@
+/home/james/ShoppingCart_old/ShoppingCart/ShoppingCart/bin/Debug/netcoreapp3.1/ShoppingCart
+/home/james/ShoppingCart_old/ShoppingCart/ShoppingCart/bin/Debug/netcoreapp3.1/ShoppingCart.deps.json
+/home/james/ShoppingCart_old/ShoppingCart/ShoppingCart/bin/Debug/netcoreapp3.1/ShoppingCart.runtimeconfig.json
+/home/james/ShoppingCart_old/ShoppingCart/ShoppingCart/bin/Debug/netcoreapp3.1/ShoppingCart.runtimeconfig.dev.json
+/home/james/ShoppingCart_old/ShoppingCart/ShoppingCart/bin/Debug/netcoreapp3.1/ShoppingCart.dll
+/home/james/ShoppingCart_old/ShoppingCart/ShoppingCart/bin/Debug/netcoreapp3.1/ShoppingCart.pdb
+/home/james/ShoppingCart_old/ShoppingCart/ShoppingCart/obj/Debug/netcoreapp3.1/ShoppingCart.csprojAssemblyReference.cache
+/home/james/ShoppingCart_old/ShoppingCart/ShoppingCart/obj/Debug/netcoreapp3.1/ShoppingCart.csproj.CoreCompileInputs.cache
+/home/james/ShoppingCart_old/ShoppingCart/ShoppingCart/obj/Debug/netcoreapp3.1/ShoppingCart.dll
+/home/james/ShoppingCart_old/ShoppingCart/ShoppingCart/obj/Debug/netcoreapp3.1/ShoppingCart.pdb
+/home/james/ShoppingCart_old/ShoppingCart/ShoppingCart/obj/Debug/netcoreapp3.1/ShoppingCart.genruntimeconfig.cache
+/home/james/ShoppingCart_old/ShoppingCart/ShoppingCart/bin/Debug/netcoreapp3.1/Discount.dll
+/home/james/ShoppingCart_old/ShoppingCart/ShoppingCart/bin/Debug/netcoreapp3.1/Discount.pdb
+/home/james/ShoppingCart_old/ShoppingCart/ShoppingCart/obj/Debug/netcoreapp3.1/ShoppingCart.csproj.CopyComplete
